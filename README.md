@@ -1,0 +1,86 @@
+<center>
+<table>
+  <tr>
+    <td><img src="https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/nasa-logo.svg" width="100"/> </td>
+     <td><img src="https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/ASTG_logo.png?raw=true" width="80"/> </td>
+     <td> <img src="https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png" width="130"/> </td>
+    </tr>
+</table>
+</center>
+
+# ASTG Python Training Materials
+
+This repository contains all the Python materials we use for teaching.
+
+### Jupyter Notebook
+- Introduction to Jupyter Notebook
+
+### Version Control
+- Introduction to Version Control with Git 
+- Creating and Maintaining Git Repositories with Github
+
+
+### Python for Beginners
+- Basic Data Types
+- Data Structures
+- Conditional Statements
+- For Loops and While Loops
+- Functions and Modules
+- Basic Manipulation of Text Files
+
+### Data Science
+- `NumPy`
+- Visualization with `Matplotlib`
+- `Pandas`
+- Web Scraping
+
+### Machine Learning
+- Basic Concepts of Machine Learning
+- Exploratory Data Analysis with Python 
+- Regression Modeling with `Scikit-Learn`
+- Regression Modeling with `Tensorflow`
+- Supervised Modeling with `Scikit-Learn`
+
+### Best Practices
+- Python Coding Standards
+- Object Oriented Programming
+- Exception Handling
+- Packaging and Deployment
+
+### Optimization
+- List Comprehension
+- Optimizing Python Applications
+- Speeding you Application with `Numba`
+- Scaling your Application with `Dask`
+
+### Programming Tools
+- `datetime` Module
+- Python Decorators
+- Passing Parameters to Applications (`argparse`, `click`, `configparser`)
+
+### Visualization Tools
+- `Cartopy`
+- `HoloViews`
+- `GeoViews`
+
+### Tools for Earth Science
+- Tool for Accessing Scientific Data Format Files 
+    - `netCDF4`
+    - `h5py`
+    - `pyhdf`
+- `Xarray`
+
+### Tools for Geospacial Analysis
+- `Shapely`
+- `GeoPandas`
+- `MovingPandas`
+
+* Scipy
+* Serialization and Deserialization (pickle, json)
+* Data Retrieval
+
+
+### Other Topics
+- `SciPy`
+- Serialization and Deserialization with `pickle` and `json`
+
