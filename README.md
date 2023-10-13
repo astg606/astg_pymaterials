@@ -10,7 +10,15 @@
 
 # ASTG Python Training Materials
 
-This repository contains all the Python materials we use for teaching.
+This repository contains all the Python materials (mainly Jupyter notebook) 
+we use for our training courses.
+They are meant to introduce the Python programming language (Python for Beginners)
+and Python related tools for Data Science, Machine Learning, Earth Science,
+Geospatial Analysis, etc.
+We do our best to make the materials self-contained. 
+However, a few topics require large data files that only available during live presentations.
+
+Here is a list of topics/tools we have materials on.
 
 ### Jupyter Notebook
 - Introduction to Jupyter Notebook
