@@ -1,6 +1,8 @@
 *.swp
+*.csv
 *.pyc
 *.LOG
+__MACOSX
 __pycache__
 *.ipynb_checkpoints
 .vscode
