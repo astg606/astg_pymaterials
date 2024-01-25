@@ -40,7 +40,7 @@ Here is a list of topics/tools we have materials on.
 - `NumPy`
 - Visualization with `Matplotlib`
 - `Pandas`
-- Web Scraping
+- Web Scraping (`Requests`, `BeautifulSoup`)
 
 ### Machine Learning
 - Basic Concepts of Machine Learning
@@ -82,11 +82,6 @@ Here is a list of topics/tools we have materials on.
 - `Shapely`
 - `GeoPandas`
 - `MovingPandas`
-
-* Scipy
-* Serialization and Deserialization (pickle, json)
-* Data Retrieval
-
 
 ### Other Topics
 - `SciPy`
