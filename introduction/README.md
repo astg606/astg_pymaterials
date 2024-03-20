@@ -1,6 +1,6 @@
 | . | . |
 | - | - |
-| ![NASA](http://www.nasa.gov/sites/all/themes/custom/nasatwo/images/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) |
+| ![NASA](https://portal.nccs.nasa.gov/datashare/astg/training/python/logos/nasa-logo.svg) | ![NCCS](https://www.nccs.nasa.gov/sites/default/files/NCCS_Logo_0.png) |
 
 ## Python Beginner Course for Programmers
 
