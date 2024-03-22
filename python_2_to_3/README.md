@@ -16,13 +16,6 @@
 Jules.Kouatchou@nasa.gov
 </p>
 
-<p align="center">
-<b>Cindy Chen</b> <br \>
-Acton Boxborough Regional High School <br \>
-36 Charter Rd, Acton, MA 01720 <br />
-cinderellazhouchen@gmail.com 
-</p>
-
 
 [Website](https://github.com/astg606/astg_pymaterials/blob/main/python_2_to_3/from_python2_to_python3.ipynb) •  [Contact Us](mailto:Jules.Kouatchou@nasa.gov)
 
