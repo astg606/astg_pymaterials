@@ -2,6 +2,7 @@
 *.csv
 *.pyc
 *.LOG
+.DS_Store
 __MACOSX
 __pycache__
 *.ipynb_checkpoints
