@@ -1,0 +1,93 @@
+---
+# key: value [mapping]
+Description: >
+      We provide information on
+      the planets of the solar system.
+
+Information: |
+    The given data is the distance to the sun,
+    the orbital and physical characteristics, and
+    the number of moons of each planet.
+
+sun:
+   mean_radius: "696340 km"    # string [literal]
+   planets:
+     - Mercury:
+         distance: 0.580e8      # floating point [literal]
+         orbital_characteristics:
+            orbit_duration: 87.96 Earth years   # string [literal]
+            orbital_speed: 47.36 km/s           # string [literal]
+         physical_characteristics:
+            mean_radius: "2439.7 km"           # string [literal]
+            surface_area: 7.48e7               # string [literal]
+         num_moons: 0                          # integer number [literal]
+
+     - Earth:
+         distance: 1.497e8
+         orbital_characteristics:
+            orbit_duration: "1.0 Earth years"
+            orbital_speed: "29.7827 km/s"
+         physical_characteristics:
+            mean_radius: "6371.0  km"
+            surface_area: 510072.0e3
+         num_moons: 1
+
+     - Mars:
+         distance: 2.279e8
+         orbital_characteristics:
+            orbit_duration: "1.88 Earth years"
+            orbital_speed: "24.07 km/s"
+         physical_characteristics:
+            mean_radius: "3389.5  km"
+            surface_area: 1.4437e8
+         num_moons: 2
+
+     - Jupiter:
+         distance: 7.78e8
+         orbital_characteristics:
+            orbit_duration: "11.86 Earth years"
+            orbital_speed: "13.07 km/s"
+         physical_characteristics:
+            mean_radius: "69911 km"
+            surface_area: 6.1469e10
+         num_moons: 95
+
+     - Saturn:
+         distance: 1.434e9
+         orbital_characteristics:
+            orbit_duration: "29.47 Earth years"
+            orbital_speed: "9.68 km/s"
+         physical_characteristics:
+            mean_radius: "58232 km"
+            surface_area: 4.27e10
+         num_moons: 146
+
+     - Neptune:
+         distance: 4.5e9
+         orbital_characteristics:
+            orbit_duration: "164.8 Earth years"
+            orbital_speed: "5.43 km/s"
+         physical_characteristics:
+            mean_radius: "24622 km"
+            surface_area: 7.6187e9
+         num_moons: 16
+
+     - Uranus:
+         distance:  2.9e9
+         orbital_characteristics:
+            orbit_duration: "84 Earth years"
+            orbital_speed: "6.80 km/s"
+         physical_characteristics:
+            mean_radius: "25362 km"
+            surface_area: 8.1156e9
+         num_moons: 28
+
+     - Venus:
+         distance:  1.08e8
+         orbital_characteristics:
+            orbit_duration: "224.7 Earth years"
+            orbital_speed: "35.02 km/s"
+         physical_characteristics:
+            mean_radius: "6051.8 km"
+            surface_area: 4.6023e8
+         num_moons: 0
