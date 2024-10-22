@@ -31,3 +31,4 @@ You might find it useful to learn little more about Jupyter notebook:
 | **Modules** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_modules.ipynb) |
 | **`datetime` Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/datetime/understand_datetime_module.ipynb) |
 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_io_text_files.ipynb) |
+| **Manipulating YAML Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/yaml/understand_yaml.ipynb) |
