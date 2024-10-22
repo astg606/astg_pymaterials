@@ -27,7 +27,6 @@ Here is a list of topics/tools we have materials on.
 - Introduction to Version Control with Git 
 - Creating and Maintaining Git Repositories with Github
 
-
 ### Python for Beginners
 - Basic Data Types
 - Data Structures
@@ -35,8 +34,10 @@ Here is a list of topics/tools we have materials on.
 - For Loops and While Loops
 - Functions and Modules
 - Basic Manipulation of Text Files
+- Manipulating YAML Files
 
 ### Data Science
+- `datetime` Module
 - `NumPy`
 - Visualization with `Matplotlib`
 - `Pandas`
@@ -58,11 +59,10 @@ Here is a list of topics/tools we have materials on.
 ### Optimization
 - List Comprehension
 - Optimizing Python Applications
-- Speeding you Application with `Numba`
+- Speeding your Application with `Numba`
 - Scaling your Application with `Dask`
 
 ### Programming Tools
-- `datetime` Module
 - Python Decorators
 - Passing Parameters to Applications (`argparse`, `click`, `configparser`)
 
@@ -72,7 +72,7 @@ Here is a list of topics/tools we have materials on.
 - `GeoViews`
 
 ### Tools for Earth Science
-- Tool for Accessing Scientific Data Format Files 
+- Manipulating Scientific Data Format Files 
     - `netCDF4`
     - `h5py`
     - `pyhdf`
