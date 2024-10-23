@@ -1,0 +1,38 @@
+---
+Greenbelt:
+  State: MD
+  location: 
+    lat: 38.82N
+    lon: 76.85W
+    elev: 282ft.
+  temp: 71F
+  date: 24-09-2024T13-34-39
+
+Chicago:
+  State: IL
+  location: 
+    lat: 41.78N
+    lon: 87.76W
+    elev: 617ft
+  temp: 75F
+  date: 24-09-2024T13-40-15
+
+Dallas:
+  State: TX
+  location: 
+    lat: 32.85N
+    lon: 96.86W
+    elev: 476ft
+  temp: 71F
+  date: 24-09-2024T13-44-00
+
+Seattle:
+  State: WA
+  location: 
+    lat: 47.54N
+    lon: 122.31W
+    elev: 20ft
+  temp: 14C
+  date: 22-10-2024T15-53-00
+
+
