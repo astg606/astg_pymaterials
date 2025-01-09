@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Names and locations of NASA Centers -->
+<nasa_centers>
+    <center acronym="GSFC">
+        <name>Goddard Space Flight Center</name>
+        <state>Maryland</state>
+        <location>8800 Greenbelt Road, Greenbelt</location>
+	<people>10000</people>
+	<date>1959-05-01</date>
+    </center>
+    <center acronym="SSC">
+        <name>Stennis Space Center</name>
+        <state>Mississipi</state>
+        <location>Stennis Space Ctr Of Nasa, John C</location>
+	<people>5200</people>
+	<date>1961-12-25</date>
+    </center>
+    <center acronym="JSC">
+        <name>Johnson Space Center</name>
+        <state>Texas</state>
+        <location>Houston</location>
+	<people>12000</people>
+	<date>1961-11-01</date>
+    </center>
+    <center acronym="ARC">
+        <name>Ames Research Center</name>
+        <state>California</state>
+        <location>Moffett Field</location>
+	<people>3200</people>
+	<date>1939-12-20</date>
+    </center>
+    <center acronym="GRC">
+        <name>Glenn Research Center</name>
+        <state>Ohio</state>
+        <location>Cleveland</location>
+	<people>3000</people>
+	<date>1941-01-01</date>
+    </center>
+    <center acronym="AFRC">
+        <name>Armstrong Flight Research Center</name>
+        <state>California</state>
+        <location>Edwards</location>
+	<people>1100</people>
+	<date>1946-01-01</date>
+    </center>
+    <center acronym="GISS">
+        <name>Goddard Institute for Space Studies</name>
+        <state>New York</state>
+        <location>2880 Broadway, New York</location>
+	<people>125</people>
+	<date>1961-01-29</date>
+    </center>
+    <center acronym="JPL">
+        <name>Jet Propulsion Laboratory</name>
+        <state>California</state>
+        <location>4800 Oak Grove Dr, La Cañada Flintridge</location>
+	<people>5500</people>
+	<date>1936-10-31</date>
+    </center>
+    <center acronym="KSC">
+        <name>Kennedy Space Center</name>
+        <state>Florida</state>
+        <location>Space Commerce Way, Merritt Island</location>
+	<people>10000</people>
+	<date>1962-07-01</date>
+    </center>
+    <center acronym="LRC">
+        <name>Langley Research Center</name>
+        <state>Virginia</state>
+        <location>1 Nasa Dr, Hampton</location>
+	<people>3400</people>
+	<date>1917-07-17</date>
+    </center>
+</nasa_centers>
