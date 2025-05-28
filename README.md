@@ -43,12 +43,21 @@ Here is a list of topics/tools we have materials on.
 - `Pandas`
 - Web Scraping (`Requests`, `BeautifulSoup`)
 
-### Machine Learning
-- Basic Concepts of Machine Learning
+### Artificial Intelligence / Machine Learning
+- Basic Concepts of Artificial Intelligence (AI) and Machine Learning (ML)
+- Overview of Artificial Neural Networks
 - Exploratory Data Analysis with Python 
-- Regression Modeling with `Scikit-Learn`
-- Regression Modeling with `Tensorflow`
-- Supervised Modeling with `Scikit-Learn`
+- AI/ML Modeling with `Scikit-Learn`
+   - Regression problem
+   - Image classification problem
+- AI/ML Modeling with `TensorFlow`
+   - Logistic regression problem
+   - Regression problem
+   - Image classification problem
+- AI/ML Modeling with `PyTorch`
+   - Logistic regression problem
+   - Regression problem
+   - Image classification problem
 
 ### Best Practices
 - Python Coding Standards
