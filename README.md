@@ -51,11 +51,11 @@ Here is a list of topics/tools we have materials on.
    - Regression problem
    - Image classification problem
 - AI/ML Modeling with `TensorFlow`
-   - Logistic regression problem
+   - Logistic regression classifier problem
    - Regression problem
    - Image classification problem
 - AI/ML Modeling with `PyTorch`
-   - Logistic regression problem
+   - Logistic regression classifier problem
    - Regression problem
    - Image classification problem
 
