@@ -32,3 +32,10 @@ You might find it useful to learn little more about Jupyter notebook:
 | **`datetime` Module** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/datetime/understand_datetime_module.ipynb) |
 | **I/O on Text Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/introduction/understand_io_text_files.ipynb) |
 | **Manipulating YAML Files** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/yaml/understand_yaml.ipynb) |
+
+
+In case you want to go deeper in learning some of the above concepts, 
+you may want to consult the following resource offered by MIT:
+
+[Introduction to CS and Programming using Python](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/resources/lecture-videos/)
+
