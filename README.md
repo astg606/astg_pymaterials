@@ -58,6 +58,7 @@ Here is a list of topics/tools we have materials on.
    - Logistic regression classifier problem
    - Regression problem
    - Image classification problem
+- Modeling with DINOv2
 
 ### Best Practices
 - Python Coding Standards
