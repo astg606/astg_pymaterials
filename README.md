@@ -72,6 +72,12 @@ Here is a list of topics/tools we have materials on.
 - Speeding your Application with `Numba`
 - Scaling your Application with `Dask`
 
+### NVDIA RAPIDS
+- `CuPy`
+- `CuDF`
+- `cuML`
+- `Numba`
+
 ### Programming Tools
 - Python Decorators
 - Passing Parameters to Applications (`argparse`, `click`, `configparser`)
