@@ -4,14 +4,14 @@
 
 ## Introdution to AI/ML with Python
 
-We introducce the general concepts of Artificial Intelligence (AI),
+We introduce the general concepts of Artificial Intelligence (AI),
 Machine Learning (ML) and Deep Learning (DL). 
-We also provide an overview of Artificial Neural Networks (ANN)
+We also provide an overview of Artificial Neural Networks (ANNs)
 and the parameters we need to consider when we design an ANN for modeling.
-Finally, through practical examples, we show how to create AI/ML/DL models
-using the Python tools `Scikit-Learn`, `TensorFlow` and `PyTorch`.
+Finally, through simple and practical examples, we show how to create AI/ML/DL models
+using the Python frameworks: `Scikit-Learn`, `TensorFlow` and `PyTorch`.
 
-This course is designed for participants who:
+This course is designed for learners who:
 
 - Practice Data Science and want to start building their own AI/ML models.
 - Are involved in management and want to understand the principle of ML to lead their team.
@@ -19,16 +19,30 @@ This course is designed for participants who:
 
 
 
-**Prerequisites**: Familiarity with Python, NumPy, Pandas and Matplotlib. Participants are also expected to be able manipulate a web browser. A gmail account is needed.
+**Prerequisites**: Familiarity with Python, NumPy, Pandas and Matplotlib. Learners are expected to be able manipulate a web browser.
 
 To take this course, you are expected to:
 
-- Have a gmail account (needed to have access to Google Colaboratory). Everything will be taught through the Google cloud based Jupyter notebook.
-- Install on your local machine a Python Distribution. It is not required but it is highly recommended.
-   - You can you install the Miniconda Python distribution by following the instructions at: [Miniconda](https://docs.anaconda.com/miniconda/)
-   - To avoid paying any license fee, do not add to Miniconda and package that comes from the Anaconda repository. You can add on `conda-forge` packages for instance.
+- Have an internet connection.
+- Have a Gmail account needed to have access to Google Colaboratory. 
+   - Everything is taught through the Google cloud based Jupyter notebook.
+   - Google Colaboratory is self-contained.
 
+There is no need to install a Python distribution on your local machine.
+If you choose to do it, we recommend that you install 
+the Miniconda Python distribution:
+- Follow the instructions at: [Miniconda](https://docs.anaconda.com/miniconda/)
+- To avoid paying license fees, do not add to Miniconda any package coming 
+   from the Anaconda repository. 
+   Use the `pip install` command to install `conda-forge` packages.
+
+
+All the materials are in Jupyter notebooks. 
 You might find it useful to learn little more about Jupyter notebook: 
+
+[Introduction to Python and Jupyter Notebooks](https://nustat.github.io/DataScience_Intro_python/Introduction%20to%20Python%20and%20Jupyter%20Notebooks.html)
+
+You can also consider following introdcution on Googgle Colaboratory:
  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/py_materials/blob/master/jupyter_notebook/jupyter_notebook_introduction.ipynb)
 
 
@@ -53,4 +67,4 @@ You might find it useful to learn little more about Jupyter notebook:
 |    | **Simple (2D non-linear function) regression problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/pytorch_simple_regression.ipynb) |
 |    | **Image classification problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/pytorch_image_classification.ipynb) |
 |    | **Introduction to Vector Embeddings** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/understand_vector_embeddings.ipynb) |
-|    | **Introduction to DINOv2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/dinov2_introduction_pytorch.ipynb) |
+|    | **Foundation Models: Introduction to DINOv2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/dinov2_introduction_pytorch.ipynb) |
