@@ -1,0 +1,15 @@
+matplotlib
+PIL
+numpy
+scipy
+pandas
+ydata_profiling
+seaborn
+scikit-learn
+tensorflow
+pytorch
+pytorch_lightning
+torchvision
+torchviz
+torchsummary
+transformers
