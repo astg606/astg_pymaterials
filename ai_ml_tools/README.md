@@ -55,7 +55,7 @@ You can also consider following introdcution on Googgle Colaboratory:
 | __Modeling with `Scikit-Learn`__ |  | |
 |    | **Introduction to Scikit-Learn** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/sklearn/sklearn_introduction.ipynb) |
 |    | **House pricing regression problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/sklearn/sklearn_regression_model.ipynb) |
-|    | **Banknote authentification problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/sklearn/sklearn_banknote_authentication.ipynb) |
+|    | **Banknote  problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/sklearn/sklearn_banknote_authentication.ipynb) |
 |    | **Image classification problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/sklearn/sklearn_image_classification.ipynb) |
 | __Modeling with `TensorFlow`__ |  | |
 |    | **Introduction to TensorFlow** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/tensorflow/tensorflow_introduction.ipynb) |
@@ -65,8 +65,9 @@ You can also consider following introdcution on Googgle Colaboratory:
 | __Modeling with `PyTorch`__ |  | |
 |    | **Introduction to PyTorch** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/pytorch_introduction.ipynb) |
 |    | **Logistic regression classifier problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/pytorch_logistic_regression_classifier.ipynb) |
-|    | **Banknote authentification problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/pytorch_banknote_authentication.ipynb) |
+|    | **Banknote authentication problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/pytorch_banknote_authentication.ipynb) |
 |    | **Simple (2D non-linear function) regression problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/pytorch_simple_regression.ipynb) |
 |    | **Image classification problem** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/pytorch_image_classification.ipynb) |
+| __Foundation Models__ |  | |
 |    | **Introduction to Vector Embeddings** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/understand_vector_embeddings.ipynb) |
-|    | **Foundation Models: Introduction to DINOv2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/dinov2_introduction_pytorch.ipynb) |
+|    | **Introduction to DINOv2** | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/astg606/astg_pymaterials/blob/main/ai_ml_tools/pytorch/dinov2_introduction_pytorch.ipynb) |
